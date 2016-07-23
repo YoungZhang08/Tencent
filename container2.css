@@ -1,0 +1,36 @@
+.second
+{
+	margin: 0 auto;
+	width: 1000px;
+	height: 65px;
+	background-color: #4195D5;
+}
+.h
+{
+	position: relative;
+	display: block;
+	left: 15px;
+	top: 12.5px;
+	width: 152px;
+	height: 65px; 
+	margin-right: -10px;
+	float: left;
+}
+.h ul
+{
+	padding-left: 5px;
+/*	padding-right: 5px;*/
+}
+.h ul li
+{
+	display: block;
+	padding-left: 5px;
+	float: left;
+	width: 35px;
+	text-align: center;
+}
+.h ul li a
+{
+	text-decoration: none;
+	color: white;
+}

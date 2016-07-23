@@ -1,0 +1,21 @@
+.third
+{
+	margin: 0 auto;
+	width: 1000px;
+	height: 85px;
+	margin-top: 1px;
+}
+.img2
+{
+	position: absolute;
+	display: block;
+	margin-top: 12px;
+	margin-left: -3px;
+}
+.img3
+{
+	position: absolute;
+	display: block;
+	margin-top: 10px;
+	margin-left: 720px;
+}

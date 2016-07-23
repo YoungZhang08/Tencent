@@ -1,0 +1,40 @@
+.thirteenth
+{
+	margin: 0 auto;
+	width: 1200px;
+	height: 100px;
+	margin-left: 290px;
+	margin-top: 255px;
+}
+.thirteenth ul
+{
+	display: block;
+	text-align: center;
+}
+.thirteenth ul li
+{
+	display: inline-block;
+	list-style-type: none;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 1px;
+	font-size: 10px;
+	color: #3E3939;
+}
+.thirteenth ul li a:link
+{
+	text-decoration: none;
+}
+.thirteenth ul li a:hover
+{
+	color: #FF1A0F;
+	text-decoration: underline;
+}
+.thirteenth p
+{
+	display: block;
+	font-size: 13px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	text-align: center;
+}

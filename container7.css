@@ -1,0 +1,89 @@
+.seventh
+{
+	width: 350px;
+	height: 580px;
+}
+.img4
+{
+	position: relative;
+	width: 108px;
+	height: 70px;
+	margin-top: -15px;
+	margin-left: 390px;
+}
+.p1 a
+{
+	position: absolute;
+	width: 200px;
+    font-weight: bold;
+    color: #3B63B7;
+    margin-top: -70px;
+    margin-left: 115px;
+    text-decoration: none;
+}
+.p1 a:hover
+{
+	text-decoration: underline;
+}
+.hd6
+{
+	position: absolute;
+	width: 350px;
+	height: 340px;
+	margin-left: 405px;
+	margin-top: 5px;
+}
+.hd6 ul li
+{
+	list-style-image: url('../img/图标.png');
+}
+.hd6 ul li a:link
+{
+	margin-left: -5px;
+	line-height: 25px;
+	font-size: 15px;
+	font-family: '\5B8B\4F53';
+	color: #213648;
+	text-decoration: none;
+}
+.hd6 ul li a:hover
+{
+	color: #F22E0F;
+	text-decoration: underline;
+}
+.img5
+{
+	position: relative;
+	width: 108px;
+	height: 70px;
+	margin-top: 215px;
+	margin-left: 390px;
+}
+.p2 a
+{
+	position: absolute;
+	width: 200px;
+    font-weight: bold;
+    color: #3B63B7;
+    margin-top: -70px;
+    margin-left: 115px;
+    font-size: 16px;
+    text-decoration: none;
+}
+.p2 a:hover
+{
+	text-decoration: underline;
+}
+.p3 a
+{
+	position: absolute;
+	width: 350px;
+	margin-top: 255px;
+	margin-left: 385px;
+	color: #F22E0F;
+	text-decoration: none;
+}
+.p3 a:hover
+{
+	text-decoration: underline;
+}

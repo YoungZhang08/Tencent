@@ -1,0 +1,104 @@
+.eighth
+{
+	position: relative;
+	width: 330px;
+	height: 450px;
+	margin-left: 635px;
+	margin-top: -480px;
+}
+.hd7
+{
+	position: absolute;
+	width: 330px;
+	margin-left: 108px;
+	margin-top: -93px;
+}
+.hd7 ul li
+{
+	float: left;
+	padding-left: 25px;
+	padding-right: 35px;
+	font-size: 15px;
+	font-weight: bold;
+	list-style-type: none;
+}
+.hd7 ul li a:link
+{
+	text-decoration: none;
+}
+.hd7 ul li a:hover
+{
+	color: #0873C0;
+	text-decoration: underline;
+}
+.img6
+{
+	position: absolute;
+	margin-left: 135px;
+	margin-top: -60px;
+	width: 145px;
+	height: 80px;
+}
+.img7
+{
+	position: absolute;
+	margin-top: -60px;
+	margin-left: 300px;
+	width: 145px;
+	height: 80px;
+}
+.hd8
+{
+	position: absolute;
+	width: 330px;
+	height: 40px;
+	margin-left: 117px;
+	margin-top: 20px;
+}
+.hd8 ul li
+{
+	list-style-type: none; 
+}
+.hd8 ul li a:link
+{
+	float: left;
+	color: #213648;
+	font-family: '\5B8B\4F53';
+	text-decoration: none; 
+	font-size: 12px;
+	padding-left: 8px;
+	padding-right: 10px;
+}
+.hd8 ul li a:hover
+{
+	color: #F22E0F;
+	text-decoration: underline;
+}
+.hd9
+{
+	position: absolute;
+	width: 330px;
+	height: 250px;
+	margin-left: 118px;
+	margin-top: 40px;
+}
+.hd9 ul li
+{
+	float: left;
+	list-style-type: none;
+	line-height:22px;
+}
+.hd9 ul li a:link
+{
+	color: #213648;
+	font-family: '\5B8B\4F53';
+	text-decoration: none; 
+	font-size: 14px;
+	padding-right: 10.1px;
+	
+}
+.hd9 ul li a:hover
+{
+	color: #F22E0F;
+	text-decoration: underline;
+}

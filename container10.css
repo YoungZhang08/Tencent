@@ -1,0 +1,116 @@
+.tenth
+{
+	position: relative;
+	width: 280px;
+	height: 600px;
+	margin-left: -500px;
+	margin-top: -500px;
+}
+.img9
+{
+	position: absolute;
+	width: 278px;
+	height: 298px;
+	margin-top: 165px;
+	margin-left: 1618px;
+}
+.img10
+{
+	position: absolute;
+	width: 278px;
+	height: 141px;
+	margin-top: 430px;
+	margin-left: 1605px;
+	border: 1px solid #47A7E4;
+	text-align: center;
+}
+.img11
+{
+	position: absolute;
+    width: 280px;
+    height: 190px;
+    margin-left: 1605px;
+    margin-top: 580px;
+    border: 1px solid #47A7E4;
+}
+.img11 p
+{
+	position: absolute;
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-left: 12px;
+}
+.img11 p a:link
+{
+	color: #2279C9;
+	text-decoration: none;
+}
+.img11 p a:hover
+{
+	text-decoration: underline;
+}
+.img11-1
+{
+	position: absolute;
+	width: 60px;
+	height: 55px;
+	margin-left: 12px;
+	margin-top: 28px;
+}
+.img11 select
+{
+	position: absolute;
+	width: 140px;
+	height: 20px;
+	margin-top: 30px;
+	margin-left: 98px;
+}
+.img11 h1
+{
+	position: absolute;
+	width: 70px;
+	height: 15px;
+	color: black;
+	font-size: 12px;
+	margin-left: 98px;
+	margin-top: 61px;
+}
+.img11-2
+{
+	position: absolute;
+	width: 100px;
+	height: 15px;
+	margin-top: 61px;
+	margin-left: 155px;
+}
+.img11-3
+{
+	position: absolute;
+	width: 270px;
+	height: 100px;
+	margin-left: 9px;
+	margin-top: 100px;
+	line-height: 22px;
+	color: #5A647A;
+	font-size: 14px;
+}
+.img11-4
+{
+	position: absolute;
+	width: 60px;
+	height: 20px;
+	margin-left: 130px;
+	margin-top: 148px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.img11-4 a:link
+{
+	color: #4874B2;
+	text-decoration: none;
+}
+.img11-4 a:hover
+{
+	text-decoration: underline;
+}

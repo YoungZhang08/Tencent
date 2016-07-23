@@ -1,0 +1,87 @@
+.nineth
+{
+	position: relative;
+	width: 330px;
+	height: 290px;
+	margin-left: 635px;
+	margin-top: -480px;
+}
+.hd10
+{
+	position: absolute;
+	width: 330px;
+	height: 30px;
+	margin-left: 122px;
+	margin-top: 268px;
+}
+.hd10 ul li
+{
+	float: left;
+	list-style-type: none;
+}
+.hd10 ul li a:link
+{
+	font-size: 15px;
+	font-weight: bold;
+	padding-left: -5px;
+	padding-right: 107px;
+	color: #0873C0;
+	text-decoration: none;
+}
+.hd10 ul li a:hover
+{
+	color: #0873C0;
+	text-decoration: underline;
+}
+.img8
+{
+	position: absolute;
+	margin-left: 119px;
+	margin-top: 300px;
+}
+.p4
+{
+	position: absolute;
+	width: 220px;
+	height: 50px;
+	margin-top: 300px;
+	margin-left: 238px;
+}
+.p4 a:link
+{
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+}
+.p4 a:hover
+{
+	color: #3B63B7;
+	text-decoration: underline; 
+}
+.hd11
+{
+	position: absolute;
+	width: 330px;
+	height: 100px;
+	margin-left: 131px;
+	margin-top: 380px;
+}
+.hd11 ul li
+{
+	float: left;
+	line-height: 22px;
+	list-style-image: url('../img/图标.png');
+}
+.hd11 ul li a:link
+{
+	font-size: 14px;
+	font-family: '\5B8B\4F53';
+	padding-left: -5px;
+	color: #0873C0;
+	text-decoration: none;
+}
+.hd11 ul li a:hover
+{
+	color: #F7482C;
+	text-decoration: underline;
+}

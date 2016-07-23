@@ -1,0 +1,35 @@
+.fourteenth
+{
+	margin: 0 auto;
+	width: 980px;
+	height: 80px;
+}
+.fourteenth-1
+{
+	display: inline-block;
+	width: 128px;
+	height: 60px;
+	margin-top: 3px;
+	border: 1px solid #A2A0A0; 
+}
+.fourteenth p
+{
+	font-size: 14px;
+	color: #3E3939;
+	margin-left: 51px;
+	margin-top: -40px;
+	list-style-type: none;
+}
+.fourteenth p a:link
+{
+	text-decoration: none;
+}
+.fourteenth p a:hover
+{
+	color: #FF1A0F;
+	text-decoration: underline;
+}
+.image
+{
+	margin-top: 12px;
+}
